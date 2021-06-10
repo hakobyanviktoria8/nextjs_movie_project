@@ -7,7 +7,6 @@ function MyApp({Component, pageProps}) {
     const theme ={
       colors:{
           primary:"#ff0000"
-
       }
     };
     return (
